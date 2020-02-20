@@ -1,2 +1,2 @@
-# 390X-exercise
+# ourfavorites
 duh
