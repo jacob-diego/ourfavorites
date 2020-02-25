@@ -4,4 +4,6 @@ making new changes
 
 making changes to complete step 6
 
-
+squash 1
+squash 2
+squash 3
