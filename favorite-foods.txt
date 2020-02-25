@@ -4,5 +4,6 @@ MARGARITAS
 
 COOKIES
 
-
 changes for fetch/rebase
+
+Following contribution workflow and edited favorites foods txt
